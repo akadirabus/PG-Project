@@ -1,0 +1,6 @@
+﻿  PGProje.cpp
+C:\Users\akadi\source\repos\PGProje\PGProje\PGProje.cpp(30,6): warning C4101: 'input': unreferenced local variable
+C:\Users\akadi\source\repos\PGProje\PGProje\PGProje.cpp(570,9): warning C4101: 'dizi': unreferenced local variable
+  Project.cpp
+  Generating Code...
+  PGProje.vcxproj -> C:\Users\akadi\source\repos\PGProje\x64\Debug\PGProje.exe
